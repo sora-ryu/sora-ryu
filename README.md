@@ -24,9 +24,10 @@ I'm a self-taught passionate machine learning enthusiast from South Korea 🇰�
 ✨ I love learning about machine learning, data science and neural networks!
 
 👩🏻‍💻 My career goal is to contribute to making the world where humans and AI can peacefully coexist :)
--->
+
 
 
 ![Sora's GitHub stats](https://github-readme-stats.vercel.app/api?username=sora-ryu&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sora-ryu&layout=compact)](https://github.com/sora-ryu/github-readme-stats)
+-->
